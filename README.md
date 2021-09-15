@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI UX Interaction / Design
 - 🌱 I’m currently learning Javascript / Vue / Firebase
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://twitter.com/hanfiev
+- 📫 How to reach me: hanfiev@gmail.com
 
 <!---
 hanfiev/hanfiev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
