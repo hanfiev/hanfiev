@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:hanfiev@gmail.com"><img src="https://img.shields.io/badge/Email-hanfiev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/hanfiev"><img src="https://img.shields.io/badge/X-@hanfiev-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <img src="https://img.shields.io/badge/Location-New%20York%20City-4285F4?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
